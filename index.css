@@ -1,0 +1,12 @@
+body {
+    text-align: center; /* Center-align the content */
+    margin-top: 50vh; /* Move the content down by half of the viewport height */
+    transform: translateY(-50%); /* Center vertically */
+    font-size: 3em; /* Adjust the font size as needed */
+}
+
+/* Style the paragraphs */
+p {
+    margin: 0; /* Remove default margin */
+}
+

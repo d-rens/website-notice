@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Daniels Webpage on daniels webpage
+    </title>
+    <link>https://d-rens.site/ </link>
+    <description>Recent content in Daniels Webpage on daniels webpage </description>
+    <generator>Hugo -- gohugo.io </generator>
+    <language>en-us </language>
+    <lastBuildDate>Mon, 01 Apr 2024 05:56:14 +0100
+</lastBuildDate>
+<atom:link href="https://d-rens.site/index.xml" rel="self" type="application/rss+xml"/>
+<item>
+    <title>Domain will change to d-rens.xyz</title>
+    <link>https://d-rens.xyz/blog/domain </link>
+    <pubDate>Mon, 13 Apr 2024 05:56:14 +0100 </pubDate>
+    <guid>https://d-rens.xyz/blog/domain </guid>
+    <description>
+        This website will be moved from https://d-rens.site to https://d-rens.xyz due to renewal/transfer costing too much. Also to get from namecheap to porkbun.
+        The RSS will also just change domain and then be on https://d-rens.xyz/index.xml .
+    </description>
+</item>
+</channel>
+</rss>
